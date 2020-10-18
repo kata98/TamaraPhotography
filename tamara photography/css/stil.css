@@ -1,0 +1,160 @@
+@font-face{
+	font-family: 'Permanent Marker', cursive;
+	font-family: 'Quicksand', sans-serif;
+}
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Quicksand';
+	background-color: #FBEFEF;
+	
+}
+
+.cleaner{
+	clear: both;
+}
+
+
+#zaglavlje, #slajder{
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-image: url('../images/slika3.jpg');
+}
+
+#zaglavlje{
+	width: 100%;
+	height: 120px;
+	padding-top: 30px;
+	margin: 0px auto;
+}
+
+
+
+#meni{
+	width: 100%;
+	height: 100px;
+	margin: 0px auto;
+}
+
+
+.lista1{
+	list-style-type: none;
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+	height: 50px;
+	background-color: rgba(0,0,0,0.6);
+	text-align: center;
+	padding-top: 15px;
+	font-family: Quicksand;
+	
+}
+
+.lista1 a{
+	text-decoration: none;
+	padding: 20px;
+	color: #F78181;
+	
+}
+ul li a:hover{
+	color: #F5A9A9;
+	text-decoration: none;
+}
+
+#slajder{
+	width: 100%;
+	margin: 0px auto;
+	min-height: 500px;
+	box-sizing: border-box; 
+	position: relative;
+}
+
+#heder{
+	width: 60%;
+	height: 450px;
+	margin: 0px auto;
+	background-color: rgba(247,129,129,0.6);
+	float: right;
+	
+}
+
+#slika{
+	float: right;
+	margin: 10px;
+	padding-top: 20px; 
+
+}
+#tekst{
+	float: left;
+	padding-top: 30px;
+	padding-left: 60px;
+	margin: 0px auto;
+	
+}
+
+h1{
+	font-family: 'Permanent Marker';
+	font-size: 50px;
+	
+
+}
+
+p{
+	font-family: 'Quicksand';
+	text-align: left;
+	font-size: 17px;
+	
+}
+
+#futer {
+	width: 100%;
+	min-height: 50px;
+	background-color: rgba(0,0,0,0.6);
+	overflow: hidden;
+	position: relative;
+	display: block;
+	text-align: center;
+	margin: 0px auto;
+	
+}
+
+
+#copyright{
+	padding-top: 10px;
+	margin: 0px auto;
+	color: #F78181;
+	width: 300px;
+	
+
+}
+
+#social-network{
+	margin: 0px auto;
+	position: relative;
+	
+	width: 200px;
+}
+
+#social-network ul li{
+	list-style-type: none;
+	margin: 0px 5px;
+	display: inline-block;
+	
+	
+}
+
+#social-network ul li a{
+	text-decoration: none;
+	font-size: 20px;
+	color: #F78181;
+	text-align: center;
+	
+	
+}
