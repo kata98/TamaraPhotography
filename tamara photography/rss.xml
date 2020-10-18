@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<tittle>TamaraPhotography</tittle>
+		<link>http://tamaraphotograhy.ict.edu.rs/130_17/index.html</link>
+		<description>Changing the world one photo at a time.</description>
+		<item>
+			<title>BOOKING</title>
+			<link>http://tamaraphotograhy.ict.edu.rs/130_17/booking.html</link>
+			<description>Book now for the best photo shoot in town.</description>		
+		</item>
+
+	</channel>
+</rss>

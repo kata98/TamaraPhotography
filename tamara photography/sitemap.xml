@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmins="http://www.sitemaps.org/scemas/sitemap/0.9">
+	<url>
+		<loc>HOME</loc>
+		<lastmod/>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>BOOKING</loc>
+		<lastmod/>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	
+	<url>
+		<loc>AUTHOR</loc>
+		<lastmod/>
+		<changefreq>yearly</changefreq>
+		<priority>0.6</priority>
+	</url>
+</urlset>
